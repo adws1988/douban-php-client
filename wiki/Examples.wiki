@@ -59,4 +59,5 @@ assert (array_key_exists("jili8", $uid_arr));
 }}}
 
 更多使用示例，请参考test_douban.php
-oauth的web示例请参考[http://code.google.com/p/douban-oauth-sample/source/browse/trunk#trunk/php]
+
+oauth的web示例请参考[http://code.google.com/p/douban-oauth-sample/source/browse/trunk#trunk/php douban-oauth-sample]
