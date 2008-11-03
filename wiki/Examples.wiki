@@ -19,7 +19,7 @@ Zend_Gdata_DouBan的方法programmaticLogin完成了上述过程，详细过程�
 $client = new Zend_Gdata_DouBan($api, $secret);
 $client->programmaticLogin();
 }}}
-运行上述代码时，输出如下提示信息：
+在命令行运行上述代码时，输出如下提示信息：
 {{{
 please paste the url in your webbrowser, complete the authorization then come back:
 http://www.douban.com/service/auth/authorize?oauth_token=5d6f7b964ef6f60c184e72c2ece4e224
